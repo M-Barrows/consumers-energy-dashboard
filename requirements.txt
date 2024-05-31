@@ -1,0 +1,7 @@
+matplotlib
+pandas
+requests
+flask
+python-dotenv
+dash
+Flask-Caching

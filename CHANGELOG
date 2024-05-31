@@ -1,0 +1,6 @@
+# 0.0.1
+First published version includes: 
+* Ability to ingest data
+* Quick hypothetical cost comparison (Energy usage only - no additional fees) between different energy plans
+* Ability to see hypothetical cost if peak usage above the average peak usage is shifted to a different time category (eg. `Off-Peak`)
+* Time series chart showing usage colored by time category
